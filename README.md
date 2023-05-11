@@ -18,4 +18,4 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * the equals method
 * a copy method
 
-![Toy Car] (toyCar.jpeg)
+![Toy Car](https://static.vecteezy.com/system/resources/previews/007/626/807/original/toy-car-for-2d-cartoon-animation-city-cars-and-vehicles-transport-free-vector.jpg)
